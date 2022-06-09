@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6281230786140','6281230786140','6281230786140']
+global.premium = ['6281230786140']
+global.ownernomer = '6281230786140'
+global.ownername = 'Mouza'
+global.botname = 'mouzarella'
+global.footer = 'mouza'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.ig = 'https://instagram.com/dimaas.ap_'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'dimaszoid01@gmail.com'
 global.region = 'indonesia'
 global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.author = 'mouza'
+global.sessionName = 'mouza'
 ```
 
 ## ```HOW TO DEPLOY```
